@@ -1,8 +1,8 @@
 # Anternate Worlds
-This interface prototype is an implementation in Tangelo roughly following the design of the user interface sketch created during the ETC workshop on May 12th.  This application looks for Euler outputs that have been stored in a particular collection in a database (default='etc').  A reformatting of the Euler output is required to represent outputs in the following manner:
+This interface prototype is an implementation in Tangelo (http://www.tangelohub.org/tangelo/) roughly following the design of the user interface sketch created during the ETC workshop on May 12th.  This application looks for Euler outputs that have been stored in a particular collection in a database (default='etc').  A reformatting of the Euler output is required to represent outputs in the following manner:
 
 
-        {
+    {
 	    "name" : "run3",
 	    "date" : "2015-05-15 08:00:00",
 	    "results" : [
